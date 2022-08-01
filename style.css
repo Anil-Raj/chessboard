@@ -1,0 +1,12 @@
+.box {width: 60px;
+    height: 60px;
+   display: inline-block;margin: 2px;}
+
+.row {height: 64px;}
+
+.white{
+    background: #a1a1a1; 
+}
+.black{
+    background: #121212;
+}
